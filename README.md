@@ -1,10 +1,10 @@
 # DATA SCIENCE | DATA ANALYTICS
 
-- Programming Language : Python
-- Technology : Machine Learning, Deep Learning, Generative AI
-- Skills : Statistics | Business Communication
-- Languages : English(Fluet), Marathi(Native), Hindi.
-- [Cambridge English](https://drive.google.com/file/u/1/d/1v-4cOknu8WbvP_bSAyffiJYvxNzGivgL/view?usp=sharing)
+# Programming Language : Python
+# Technology : Machine Learning, Deep Learning, Generative AI
+# Skills : Statistics  Business Communication
+# Languages : English(Fluet), Marathi(Native), Hindi.
+# [Cambridge English](https://drive.google.com/file/u/1/d/1v-4cOknu8WbvP_bSAyffiJYvxNzGivgL/view?usp=sharing)
 
 ## EDUCATION
 - B.Tech., Artificial Intelligence GHRCE,Nagpur (_June 2023_)								       		
