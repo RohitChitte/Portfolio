@@ -1,6 +1,10 @@
 # DATA SCIENCE | DATA ANALYTICS
 
-#### Technical Skills: Python, SQL, Excel, PowerBI, Machine Learning
+#### Programming Language : Python
+#### Technology : Machine Learning, Deep Learning, Generative AI
+#### Skills : Statistics | Business Communication
+#### Languages : English(Fluet), Marathi(Native), Hindi.
+[Cambridge English](https://drive.google.com/file/u/1/d/1v-4cOknu8WbvP_bSAyffiJYvxNzGivgL/view?usp=sharing)
 
 ## EDUCATION
 - B.Tech., Artificial Intelligence GHRCE,Nagpur (_June 2023_)								       		
@@ -18,11 +22,12 @@
 - Designed Pipeline for Web Scraping, Model traning, Data processing, prediction.
 
 
-**Data Science Intern @ Centre of Excellence GHRCE, Nagpur (_June 2022 - Present_)**
+**Data Science Intern @ Centre of Excellence GHRCE, Nagpur (_June 2021 - Octomber 2021)**
 - Studied about Autoenchoders, Transformers.
 - Data Scraping from PDFs
-- Data articulation and clearning, preprocessing
+- Data articulation, cleaning & preprocessing
 - Tokenization
+- Natural Language Processing
 
 ## Projects
 
