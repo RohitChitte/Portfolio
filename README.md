@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, Excel, PowerBI, Machine Learning
 
 ## EDUCATION
-- B.Tech., Artificial Intelligence | GHRCE,Nagpur (_June 2023_)								       		
-- H.S.C., Science	| S.S.V.P.S, Dhule |(_2019_)	 			        		
-- S.S.C., | Chavara High School, Dhule | (_2017_)
+- B.Tech., Artificial Intelligence GHRCE,Nagpur (_June 2023_)								       		
+- H.S.C., Science	S.S.V.P.S, Dhule (_2019_)	 			        		
+- S.S.C., Chavara High School, Dhule (_2017_)
 
 ## Internships and Training
 **Data Science Intern @ Ineuron.ai (_December 2022 - June 2023_)**
