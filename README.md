@@ -15,7 +15,7 @@
 - Implemented Cassandera Database
 - Implemented Code in Modular fashion along with Object oriented standards
 - Used Streamlit for front end
-- Designed Pipeline
+- Designed Pipeline for Web Scraping, Model traning, Data processing, prediction.
 
 
 **Data Science Intern @ Centre of Excellence GHRCE, Nagpur (_June 2022 - Present_)**
