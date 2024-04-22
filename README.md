@@ -1,6 +1,7 @@
 # DATA SCIENCE | DATA ANALYTICS
 
-- **Programming Language** : Python
+- **Programming Language** : Python, MySQL
+- **Tools** : Microsoft PowerBI, Excel
 - **Technology** : Machine Learning, Deep Learning, Generative AI
 - **Skills** : Statistics  Business Communication
 - **Languages** : English(Fluet), Marathi(Native), Hindi.
